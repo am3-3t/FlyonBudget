@@ -5,4 +5,4 @@ This python scripts then using Kiwi Tequila API searches for the flights that ar
 The flights whose prices are less than our fixed budget, it emails the user about the ticket fare drop. 
 
 The project is set for direct flights only for now. If there is no direct flights to destination, it simply ignores. 
-I am working on getting the flights with 1/2 step overs which could be more beneficial to users.
+I am working on getting the flights with 1 - 2 step overs which could be more beneficial to users.
